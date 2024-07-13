@@ -1,10 +1,5 @@
-# Markets Laravel Admin Panel
-
-## Important Links
- [Server Requirements](https://support.smartersvision.com/help-center/articles/7/9/3/introduction).
-  
- [How to Update to last version?](https://support.smartersvision.com/help-center/articles/7/9/11/update).
- 
- [FAQ](https://support.smartersvision.com/help-center/categories/8/laravel-application-faq).
- 
-# food
+I'm a skilled full stack developer with 15 years of experience, specializing in PHP, Laravel, CodeIgniter, Flutter, Django, Node.js, MERN Stack, AWS, and more. Please contact me for your application needs:
+**Email**: saifuldev2011@gmail.com
+**Skype**: saiful.islam
+**Mobile/Whatsapp:** +8801818-650864
+**Website:** www.bijoylab.com
